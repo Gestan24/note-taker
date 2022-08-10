@@ -1,6 +1,24 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "0"
+    },
+    {
+      "title": "Get groceries",
+      "text": "Stop at woodmans and grab some essentials",
+      "id": "1"
+    },
+    {
+      "title": "Walk dog",
+      "text": "Take Roscoe for a walk",
+      "id": "2"
+    },
+    {
+      "title": "Workout",
+      "text": "Go to LA fitness for an hour workout",
+      "id": "3"
     }
-]
+  ]
+}
