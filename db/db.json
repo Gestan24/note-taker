@@ -1,18 +1,14 @@
 {
-
-    "notes": [
-
-        {
-
-            "title":"Test Title",
-
-            "text":"Test text",
-
-            "id": "0"
-
-        }
-
-    ]
-
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "0"
+    },
+    {
+      "title": "Get groceries",
+      "text": "Stop at woodmans and grab some essentials",
+      "id": "1"
+    }
+  ]
 }
-
